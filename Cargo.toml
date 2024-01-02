@@ -1,0 +1,8 @@
+[package]
+name = "simple-bot"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+binance = "0.20.2"
+dotenv = "0.15.0"
